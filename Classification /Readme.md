@@ -1,4 +1,4 @@
-Breast Cancer Classification with Supervised Learning
+[Breast Cancer Classification with Supervised Learning
 ------------------------------------------------------
 This repository contains a comprehensive implementation of supervised learning techniques applied to the breast cancer dataset from scikit-learn. The project evaluates multiple classification algorithms to identify the most effective approach for breast cancer diagnosis.
 
@@ -143,4 +143,4 @@ Implementation of explainable AI techniques
 Conclusion :
 -----------
 This project demonstrates the effectiveness of machine learning techniques for breast cancer diagnosis. The high accuracy achieved by multiple algorithms shows promise for computer-aided diagnostic systems in medical applications. The comparison of different algorithms provides insights into their strengths and limitations for this specific task.
-By evaluating multiple approaches, this work contributes to the understanding of which machine learning methods are most suitable for breast cancer classification based on cell nuclei characteristics.
+By evaluating multiple approaches, this work contributes to the understanding of which machine learning methods are most suitable for breast cancer classification based on cell nuclei characteristics.](https://github.com/Divya-sree-k31/ML-_Analysis/tree/main/Classification%20)
