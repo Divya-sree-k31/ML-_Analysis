@@ -65,7 +65,7 @@ Required libraries (see requirements.txt)
 Installation
 
 1. Clone the repository
-bashgit clone https://github.com/yourusername/car-price-prediction.git
+bashgit clone https://github.com/Divya-sree-k31/car-price-prediction.git
 cd car-price-prediction
 
 2. Install dependencies
@@ -81,25 +81,38 @@ bashjupyter notebook car_price_prediction.ipynb
 Requirements:
 -------------
 Create a requirements.txt file with:
+
 txtpandas>=1.3.0
+
 numpy>=1.21.0
+
 matplotlib>=3.4.0
+
 seaborn>=0.11.0
+
 scikit-learn>=1.0.0
+
 jupyter>=1.0.0
 
 Key Results:
 ------------
 MODEL EVALUATION AND COMPARISON:
+
 BEST PERFORMING MODEL
+
 Best Model: Random Forest
+
 R² Score: 0.9572
+
 
 Model Evaluation Metrics:
 -------------------------
 R² Score: Measures explained variance (higher is better)
+
 Mean Squared Error (MSE): Average squared prediction errors
+
 Mean Absolute Error (MAE): Average absolute prediction errors
+
 Root Mean Squared Error (RMSE): Square root of MSE
 
 Hyperparameter Tuning:
@@ -107,16 +120,23 @@ Hyperparameter Tuning:
 The project includes comprehensive hyperparameter optimization:
 
 Grid Search Cross-Validation
+
 5-Fold Cross-Validation
+
 Performance Improvement Tracking
+
 Optimal Parameter Selection
 
 Contributing:
 -------------
 Fork the repository
+
 Create your feature branch (git checkout -b feature/AmazingFeature)
+
 Commit your changes (git commit -m 'Add some AmazingFeature')
+
 Push to the branch (git push origin feature/AmazingFeature)
+
 Open a Pull Request
 
 License:
@@ -126,7 +146,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments:
 ---------------
 Dataset providers for comprehensive market data
+
 Scikit-learn community for excellent ML tools
+
 Open source contributors for supporting libraries
 
 
